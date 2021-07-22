@@ -1,0 +1,2 @@
+rootProject.name = "ArcGis100Test"
+include ':app'
